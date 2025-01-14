@@ -20,6 +20,11 @@ img {
     margin: auto;
 }
 
+.recipe {
+    height: 400;
+    width: 300;
+}
+
 h2 {
     background-color: #ffdab9;
 }
