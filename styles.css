@@ -51,3 +51,13 @@ img {
     margin: 8px auto;
     border-radius: 4px;
 }
+
+.button-one,
+.button-two,
+.button-three {
+    border-radius: 4px;
+    font-size: 20px;
+    background-color: slategrey;
+    border: 3px dotted black;
+    box-shadow: 8px rgb (0, 0, 0);
+}
