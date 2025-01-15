@@ -7,7 +7,7 @@ h2 {
     text-align: center;
     text-decoration: underline;
     color: white;
-    background-color: #000000; 
+    background-color: #ffdab9; 
 }
 
 a {
@@ -27,4 +27,9 @@ img {
 
 h2 {
     background-color: #ffdab9;
+}
+
+.one {
+    background-color: black;
+    color: white;
 }
