@@ -7,7 +7,10 @@ h2 {
     text-align: center;
     text-decoration: underline;
     color: coral;
-    background-color: #ffdab9; 
+    background-color: #ffdab9;
+    margin: 8px;
+    padding: 8px;
+    border: 4px dashed black; 
 }
 
 a {
