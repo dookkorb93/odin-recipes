@@ -2,6 +2,11 @@
     font-family: "Verdana", serif;
 }
 
+.homepage {
+    text-align: center;
+    list-style: none;
+}
+
 h1,
 h2 {
     text-align: center;
