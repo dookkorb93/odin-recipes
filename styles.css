@@ -6,7 +6,7 @@ h1,
 h2 {
     text-align: center;
     text-decoration: underline;
-    color: white;
+    color: coral;
     background-color: #ffdab9; 
 }
 
@@ -29,7 +29,3 @@ h2 {
     background-color: #ffdab9;
 }
 
-.one {
-    background-color: black;
-    color: white;
-}
