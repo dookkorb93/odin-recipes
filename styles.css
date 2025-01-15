@@ -5,7 +5,7 @@
 .homepage,
 .steps {
     text-align: center;
-    list-style: square;
+    list-style: none;
 }
 
 /* h1 and h2 declarations affect all html files */
@@ -17,7 +17,7 @@ h2 {
     color: coral;
     background-color: #ffdab9;
     width: 500px;
-    margin: 8px auto;
+    margin: 14px auto;
     padding: 8px;
     border: 4px dashed black;
 }
@@ -42,9 +42,9 @@ img {
     text-align: center;
     list-style: none;
     width: 500px;
-    padding: auto;
+    padding: 2px;
     border: 2px solid black;
-    margin: 0 auto;
+    margin: 4px auto;
 }
 
 .button {
@@ -65,6 +65,7 @@ img {
     border: 3px dotted black;
 }
 
-p {
+p,
+.instructions {
     text-align: center;
 }
