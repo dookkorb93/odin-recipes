@@ -64,3 +64,7 @@ img {
     border: 3px dotted black;
     box-shadow: 8px rgb (0, 0, 0);
 }
+
+p {
+    text-align: center;
+}
