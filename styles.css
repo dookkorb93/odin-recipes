@@ -42,3 +42,12 @@ img {
     border: 2px solid black;
     margin: 0 auto;
 }
+
+.button {
+    background-color: white;
+    border: 3px solid black;
+    font-size: 14px;
+    padding: 10px 24px;
+    margin: 8px auto;
+    border-radius: 4px;
+}
