@@ -52,21 +52,26 @@ img {
 }
 
 .button {
-    background-color: white;
+    background-color: coral;
     border: 3px solid black;
     font-size: 14px;
     padding: 10px 24px;
-    margin: 8px auto;
+    margin: 10px 665px;
     border-radius: 4px;
+    
 }
 
 .button-one,
 .button-two,
 .button-three {
-    border-radius: 4px;
+    border-radius: 2px;
     font-size: 20px;
-    background-color: lightskyblue;
-    border: 3px dotted black;
+    background-color: silver;
+    border: 3px solid black;
+    display: block;
+    padding: 10px 24px;
+    margin: 10px 398px;
+    width: 500px;
 }
 
 p,
