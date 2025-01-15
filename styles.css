@@ -2,9 +2,10 @@
     font-family: "Verdana", serif;
 }
 
-.homepage {
+.homepage,
+.steps {
     text-align: center;
-    list-style: none;
+    list-style: square;
 }
 
 /* h1 and h2 declarations affect all html files */
@@ -62,7 +63,6 @@ img {
     font-size: 20px;
     background-color: slategrey;
     border: 3px dotted black;
-    box-shadow: 8px rgb (0, 0, 0);
 }
 
 p {
